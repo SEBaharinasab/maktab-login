@@ -38,4 +38,12 @@ html, body{
 }
 .form .info{
   margin-top: 0;
+  font-size: 11px;
+  text-align: center;
+}
+.form .info a{
+  text-decoration: none;
+}
+.form .info a:hover{
+  text-decoration: underline;
 }
